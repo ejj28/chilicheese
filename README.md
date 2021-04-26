@@ -1,2 +1,2 @@
 # chilicheese
- New ChiliCheese site for LivingMas
+ New ChiliCheese locator site for LivingMás
