@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Taco Bells that serve Chili Cheese Burritos</name>
+    <description>Chili Cheese</description>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Chili Cheese Taco Bells</name>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.1811692,36.3568177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -104.4338773,39.7427425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -105.3471275,39.652037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.9645077,30.3270852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.9157279,34.3775087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5048682,34.2215082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.142651,33.5083665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.7340046,33.792027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8903995,39.0776867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0999958,39.5300266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.3939856,39.8547093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1163576,39.9616434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1280866,38.2360469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.9207249,39.9890485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8518203,39.1123039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.2622961,39.9101559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1352529,39.9121096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.058828,39.9048797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.0837258,39.6369956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.0861968,39.8554549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.6211291,41.2850274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6416391,39.0156709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8664951,38.958564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8881085,39.8618493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8388836,38.9588228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.3361511,41.7375591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.2532437,41.6792585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.2478019,41.6294522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8336602,40.8111054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4514206,39.0279218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5184631,39.0866994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5759002,39.0526923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8851797,37.7288972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5889215,39.0215365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6207436,39.004643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6540731,39.0004125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6609617,38.9749943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6292107,38.9567397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5317796,39.0364696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.7041666,39.0650382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5433887,38.9297132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.7908748,38.6269285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4805441,39.0848207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.452203,45.045172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.563964,43.2203757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.7688984,43.8381257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.69576,45.027866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.7076763,44.6539587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5860575,43.292021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.3536032,41.9635967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.4126638,41.9283696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.9172685,45.3899457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3558351,46.4749023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6044844,44.7330901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6397134,44.7250299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.6556855,44.6754821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2246531,44.2488319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.1426075,37.8191752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.817906,35.5074309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.954836,35.3734062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.9680206,35.3976376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3749743,35.6063914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.2515903,39.0515941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.0181536,39.3336668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4563682,39.1596969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6113413,39.0954913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5633416,39.2790764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5951521,39.242941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.570922,39.1912001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3106856,39.2920922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.3940464,39.2281082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5339561,39.1063677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.328701,39.0724156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6294906,39.1555776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5247904,39.2963666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5339561,39.1063677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4387609,39.2260416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6013059,39.1880928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.0415873,39.9888726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.1106826,41.3668026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.0699519,41.3799693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.067437,41.3472811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5586307,39.3380606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.7876711,39.2483253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.4508705,39.8842564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.9208162,39.0437653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.5665448,40.285124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.0793201,41.4250535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.1845639,40.2883318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8020981,34.2326953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.678101,33.830212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.4243091,29.9970373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.0340526,29.6527611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.9472175,36.1775195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.0343833,42.5236628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.0475128,42.9459194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.7793237,43.5743431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.9486619,42.9312595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.3811516,43.0425786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.6835217,32.8499273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1170786,42.7572085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.2750928,44.8621884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.1722624,44.7159969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.359461,44.2588735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.4505666,44.2623579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.4153642,44.2876286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3121744,44.2955727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7682054,46.8709514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.2452735,46.3570805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.1645503,44.4555736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.4844473,40.3837809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.1191744,29.556164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.6570523,41.7030856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0801563,44.8973855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.7979978,38.9373855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0248666,44.9858498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.5782655,40.6698607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.0772762,42.796561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1141765,42.8032157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.3886611,44.9346102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.7512721,39.5095963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.592532,39.4233313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0548714,41.80244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.2781713,44.7454647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.3911772,38.8773618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.4060446,44.2794999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2331084,34.8206532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3963908,35.6067515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3716559,35.5859021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4067654,35.5568223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.5607631,45.3151949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.1058749,45.0466252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.8052336,41.4853142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.8119959,45.0353128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4710907,25.9163293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.5069194,25.9495373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.6465304,41.3745857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.6509,41.3551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.1883704,39.6921165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.16808,41.0270166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.0406721,39.9539237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.3570879,38.4852687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.3148868,29.775608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9415022,40.7009777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -118.3949938,37.3705601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -107.7651715,32.267519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.3251528,47.4399053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.0782166,33.8542769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7098903,32.5555573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7193012,32.4793746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.320345,27.88095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4134962,27.7777915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.3970855,27.7525099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.3887107,27.7070943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.3474357,27.6956192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.3797391,27.6828757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.2832462,27.6664183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.5887844,27.8478969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.2633036,38.6512993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5759928,38.3917075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -120.2900483,47.4097543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9093433,46.6040809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0382897,43.7992593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1009602,43.9882567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2326861,43.4063329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.2124799,43.3577198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1238577,44.0986824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.8602644,44.5003614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -106.9420974,44.7800744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -105.4946667,44.2767318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.1527829,36.7640156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.236023,36.7323255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -108.1779721,36.7391506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.7514838,46.7941656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.7949606,46.7973107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -100.7736711,46.8422258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -102.7888522,46.900241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.7092131,46.8981753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.4378433,45.458682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.2966396,48.2166514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7618413,44.3164831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.1101981,44.8897974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.1476267,44.095233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.1963959,44.0878596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.2579504,44.0815414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.2317318,44.058788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.2092394,44.0327227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.4895162,40.9139009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taco Bell</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6573219,40.770278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
