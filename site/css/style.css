@@ -42,3 +42,19 @@ html, body {
 .no-margin {
     margin: 0 ! important;
 }
+
+.popover-body {
+    min-width: 276px;
+}
+
+.popupClose {
+    color: gray;
+}
+
+.popupClose:hover {
+    color: black;
+}
+
+a:hover {
+    cursor: pointer;
+}
