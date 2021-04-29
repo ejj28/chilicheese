@@ -8,6 +8,7 @@ html, body {
 
 .font-lm {
     font-family: 'Raleway', sans-serif;
+    font-size: 6vh;
     margin: 0;
 }
 
@@ -15,28 +16,37 @@ html, body {
     display: inline;
 }
 
+.logoBox {
+    background-color: white;
+    height: 8vh;
+    width: 8vh;
+}
+
 .logo {
-    height: 80px;
-    margin-right: 20px;
+    height: 7vh;
+    margin: 0.5vh;
+
 }
 
 .donateButton {
     font-family: 'Raleway', sans-serif !important;
-    margin-right: 20px;
+    /* font-size: 4vh; */
+    margin-right: 2vh;
     border-radius: 0%;
+    /* height: 6vh; */
 }
 
 .donateButton:hover {
     color: #682a8d !important;
 }
 
-.map {
-    height: 100%;
+#map {
+    height: 72vh;
     width: 100%;
 }
 
 .topBar {
-    height: 80px;
+    height: 8vh;
 }
 
 .no-margin {
