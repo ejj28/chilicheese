@@ -2,13 +2,24 @@ let vh = window.innerHeight * 0.01;
 document.documentElement.style.setProperty('--vh', `${vh}px`);
 
 
+var ccbMarker = new ol.style.Style({
+  image: new ol.style.Icon({
+    anchor: [0.5, 1],
+    anchorXUnits: 'fraction',
+    anchorYUnits: 'fraction',
+    src: 'media/pin.png',
+    scale: 0.015,
+  }),
+});
+
 var ccbLocations = new ol.source.Vector({
   url: 'data/ccb_locations_geoJSON.json',
   format: new ol.format.GeoJSON()
 });
 
 var vectorLayer = new ol.layer.Vector({
-  source: ccbLocations
+  source: ccbLocations,
+  style: ccbMarker
 });
 
 var map = new ol.Map({
