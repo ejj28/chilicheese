@@ -1,3 +1,7 @@
+let vh = window.innerHeight * 0.01;
+document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+
 var ccbLocations = new ol.source.Vector({
   url: 'data/ccb_locations_geoJSON.json',
   format: new ol.format.GeoJSON()

@@ -6,26 +6,11 @@ html, body {
     background-color: #682a8d;
 }
 
-.font-lm {
-    font-family: 'Raleway', sans-serif;
-    font-size: 6vh;
-    margin: 0;
-}
-
 .logoText {
     display: inline;
-}
-
-.logoBox {
-    background-color: white;
-    height: 8vh;
-    width: 8vh;
-}
-
-.logo {
-    height: 7vh;
-    margin: 0.5vh;
-
+    font-family: 'Raleway', sans-serif;
+    font-size: 4vh;
+    margin: 0vh 0vh 0vh 1vh;
 }
 
 .donateButton {
@@ -33,7 +18,7 @@ html, body {
     /* font-size: 4vh; */
     margin-right: 2vh;
     border-radius: 0%;
-    /* height: 6vh; */
+    
 }
 
 .donateButton:hover {
@@ -41,12 +26,12 @@ html, body {
 }
 
 #map {
-    height: 72vh;
+    height: calc(var(--vh, 1vh) * 89);
     width: 100%;
 }
 
 .topBar {
-    height: 8vh;
+    height: calc(var(--vh, 1vh) * 6);
 }
 
 .no-margin {
@@ -68,3 +53,15 @@ html, body {
 a:hover {
     cursor: pointer;
 }
+
+footer {
+    height: calc(var(--vh, 1vh) * 5);
+    font-size: calc(calc(1vh  * 1vw) * 2vh);
+}
+
+footer p {
+    margin-bottom: 0px;
+}
+
+
+
