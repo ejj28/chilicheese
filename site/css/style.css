@@ -19,15 +19,105 @@ html, body {
     }
 }
 
-.donateButton {
+.aboutButton {
     font-family: 'Raleway', sans-serif !important;
     /* font-size: 4vh; */
     margin-right: 2vh;
     border-radius: 0%;
 }
 
-.donateButton:hover {
+.aboutButton:hover {
     color: #682a8d !important;
+}
+
+.aboutModalButton {
+    font-family: 'Raleway', sans-serif !important;
+    /* font-size: 4vh; */
+    border-radius: 0%;
+    color: #3d4145;
+    border-color: #3d4145;
+    margin: 0px 2px 0px 2px;
+}
+
+.aboutModalButton:hover {
+    color: white !important;
+    background-color: #3d4145;
+    border-color: #3d4145;
+}
+
+.aboutModalButtonWebsite {
+    font-family: 'Raleway', sans-serif !important;
+    /* font-size: 4vh; */
+    border-radius: 0%;
+    color: #682a8d;
+    border-color: #682a8d;
+    margin: 0px 2px 0px 2px;
+}
+
+.aboutModalButtonWebsite:hover {
+    color: white !important;
+    background-color: #682a8d;
+    border-color: #682a8d;
+}
+
+.aboutModalButtonFAQ {
+    font-family: 'Raleway', sans-serif !important;
+    /* font-size: 4vh; */
+    border-radius: 0%;
+    color: #A77BCA;
+    border-color: #A77BCA;
+    margin: 0px 2px 0px 2px;
+}
+
+.aboutModalButtonFAQ:hover {
+    color: white !important;
+    background-color: #A77BCA;
+    border-color: #A77BCA;
+}
+
+.aboutModalButtonBlurple {
+    font-family: 'Raleway', sans-serif !important;
+    /* font-size: 4vh; */
+    border-radius: 0%;
+    color: #7289DA;
+    border-color: #7289DA;
+    margin: 0px 2px 0px 2px;
+}
+
+.aboutModalButtonBlurple:hover {
+    color: white !important;
+    background-color: #7289DA;
+    border-color: #7289DA;
+}
+
+.aboutModalButtonReddit {
+    font-family: 'Raleway', sans-serif !important;
+    /* font-size: 4vh; */
+    border-radius: 0%;
+    color: #FF5700;
+    border-color: #FF5700;
+    margin: 0px 2px 0px 2px;
+}
+
+.aboutModalButtonReddit:hover {
+    color: white !important;
+    background-color: #FF5700;
+    border-color: #FF5700;
+}
+
+.aboutModalButtonDonate {
+    font-family: 'Raleway', sans-serif !important;
+    /* font-size: 4vh; */
+    border-radius: 0%;
+    color: #50a657;
+    border-color: #50a657;
+    margin: 0px 2px 0px 2px;
+}
+
+.aboutModalButtonDonate:hover {
+    color: white !important;
+    background-color: #50a657;
+    border-color: #50a657;
 }
 
 #map {
@@ -68,4 +158,18 @@ footer {
 
 footer p {
     margin-bottom: 0px;
+}
+
+#aboutheader {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.modal-lm {
+    margin-bottom: 2vh;
+}
+
+.modal-logo {
+    height: 1em;
+    margin-right: 0.1em;
 }
