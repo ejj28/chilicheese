@@ -45,76 +45,45 @@ html, body {
     border-color: #3d4145;
 }
 
-.aboutModalButtonWebsite {
-    font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
-    border-radius: 0%;
+.colour-website {
     color: #682a8d;
     border-color: #682a8d;
-    margin: 0px 2px 0px 2px;
 }
 
-.aboutModalButtonWebsite:hover {
+.colour-website:hover {
     color: white !important;
     background-color: #682a8d;
     border-color: #682a8d;
 }
 
-.aboutModalButtonFAQ {
-    font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
-    border-radius: 0%;
-    color: #A77BCA;
-    border-color: #A77BCA;
-    margin: 0px 2px 0px 2px;
-}
-
-.aboutModalButtonFAQ:hover {
-    color: white !important;
-    background-color: #A77BCA;
-    border-color: #A77BCA;
-}
-
-.aboutModalButtonBlurple {
-    font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
-    border-radius: 0%;
+.colour-blurple {
     color: #7289DA;
     border-color: #7289DA;
-    margin: 0px 2px 0px 2px;
 }
 
-.aboutModalButtonBlurple:hover {
+.colour-blurple:hover {
     color: white !important;
     background-color: #7289DA;
     border-color: #7289DA;
 }
 
-.aboutModalButtonReddit {
-    font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
-    border-radius: 0%;
+.colour-reddit {
     color: #FF5700;
     border-color: #FF5700;
-    margin: 0px 2px 0px 2px;
 }
 
-.aboutModalButtonReddit:hover {
+.colour-reddit:hover {
     color: white !important;
     background-color: #FF5700;
     border-color: #FF5700;
 }
 
-.aboutModalButtonDonate {
-    font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
-    border-radius: 0%;
+.colour-donate {
     color: #50a657;
     border-color: #50a657;
-    margin: 0px 2px 0px 2px;
 }
 
-.aboutModalButtonDonate:hover {
+.colour-donate:hover {
     color: white !important;
     background-color: #50a657;
     border-color: #50a657;
