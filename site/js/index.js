@@ -1,5 +1,10 @@
-let vh = window.innerHeight * 0.01;
-document.documentElement.style.setProperty('--vh', `${vh}px`);
+let rvh = window.innerHeight * 0.01;
+document.documentElement.style.setProperty('--rvh', `${rvh}px`);
+
+window.addEventListener('resize', () => {
+  rvh = window.innerHeight * 0.01;
+  document.documentElement.style.setProperty('--rvh', `${rvh}px`);
+});
 
 
 var ccbMarker = new ol.style.Style({

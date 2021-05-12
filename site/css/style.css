@@ -121,12 +121,14 @@ html, body {
 }
 
 #map {
-    height: 89%;
+    height: 94%;
+    height: calc(var(--rvh, 1vh) * 94);
     width: 100%;
 }
 
 .topBar {
     height: 6%;
+    height: calc(var(--rvh, 1vh) * 6);
     min-height: 35px;
     min-width: 230px;
 }
@@ -151,15 +153,6 @@ a:hover {
     cursor: pointer;
 }
 
-footer {
-    height: 4%;
-    font-size: 2vh;
-}
-
-footer p {
-    margin-bottom: 0px;
-}
-
 #aboutheader {
     text-align: center;
     font-family: 'Raleway', sans-serif;
@@ -172,4 +165,37 @@ footer p {
 .modal-logo {
     height: 1em;
     margin-right: 0.1em;
+}
+
+.modalButtons {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.modalButtons li {
+    display: inline;
+}
+
+@media (max-width: 518px) {
+    .modalButtons li {
+        display: block !important;
+        text-align: center;
+    }
+    .modalButtons li a {
+        margin: 3px 0px 3px 0px
+    }
+    .modal-lm {
+        margin-bottom: 1vh !important;
+    }
+}
+
+#legal {
+    margin-top: 4vh;
+}
+
+#legal p {
+    text-align: center;
+    font-size: small;
 }
