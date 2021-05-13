@@ -64,15 +64,13 @@ map.on('click', function (evt) {
       return feature;
     });
   if (feature) {
-    console.log("hello")
+
     var geometry = feature.getGeometry();
     var coord = geometry.getCoordinates();
 
 
     var hdms = ol.coordinate.toStringHDMS(ol.proj.toLonLat(coord));
 
-    console.log(feature.getProperties());
-    console.log(hdms);
 
     $(popupElement).popover('dispose');
     storePopup.setPosition(coord);
