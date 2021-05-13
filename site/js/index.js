@@ -6,6 +6,9 @@ window.addEventListener('resize', () => {
   document.documentElement.style.setProperty('--rvh', `${rvh}px`);
 });
 
+function toggleAboutModal() {
+  $('#aboutModal').modal('toggle');
+}
 
 var ccbMarker = new ol.style.Style({
   image: new ol.style.Icon({
