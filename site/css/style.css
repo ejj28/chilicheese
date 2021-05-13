@@ -57,14 +57,15 @@ html, body {
 }
 
 .colour-blurple {
-    color: #7289DA;
-    border-color: #7289DA;
+    color: #5865F2;
+    border-color: #5865F2;
+    /* RIP original Blurple #7289DA May 13, 2021 */
 }
 
 .colour-blurple:hover {
     color: white !important;
-    background-color: #7289DA;
-    border-color: #7289DA;
+    background-color: #5865F2;
+    border-color: #5865F2;
 }
 
 .colour-reddit {
