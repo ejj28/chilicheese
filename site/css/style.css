@@ -21,7 +21,7 @@ html, body {
 
 .aboutButton {
     font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
+    
     margin-right: 2vh;
     border-radius: 0%;
 }
@@ -32,7 +32,7 @@ html, body {
 
 .aboutModalButton {
     font-family: 'Raleway', sans-serif !important;
-    /* font-size: 4vh; */
+    
     border-radius: 0%;
     color: #3d4145;
     border-color: #3d4145;
