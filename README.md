@@ -1,4 +1,4 @@
-# ChiliChee.se
-[Website](https://chilichee.se)
+# ChiliCheese
+[Website](https://chilicheese.livingmas.com)
 
 LivingMás's new ChiliCheese Burrito location map
